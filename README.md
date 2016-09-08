@@ -1,2 +1,6 @@
-# fibbonaci
-An exercise to find Fibonacci numbers
+# Exercises
+A collection of exercises
+
+|file|description|
+|:---|:---|
+|fibbonaci.js|a script to find the previous number in the fibbonaci sequence|
